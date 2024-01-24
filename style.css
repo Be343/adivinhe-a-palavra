@@ -1,0 +1,21 @@
+ body{
+    background-color: blue;
+ }
+ .login_div1, .login_div2{
+    background-color:aqua;
+    padding: 10px;
+    float: none ;
+border-radius: 15px;
+margin:30px
+ }
+
+#word{
+   width: 60%;
+}
+#output{
+   background-color: azure;
+   border-radius: 10px;
+   border-top : 10px solid whitesmoke;
+   padding: 10px;
+
+}
