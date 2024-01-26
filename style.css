@@ -17,5 +17,16 @@ margin:30px
    border-radius: 10px;
    border-top : 10px solid whitesmoke;
    padding: 10px;
-
+}
+h4{
+   color: white;
+   margin-left: 20px;
+}
+span{
+   color: cyan;
+   margin-left: 20px;
+}
+#word_display{
+   color: red;
+   margin-left: 20px;
 }
